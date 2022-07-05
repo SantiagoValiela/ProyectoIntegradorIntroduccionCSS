@@ -10,9 +10,7 @@
 * {
     box-sizing: border-box;
 }
-div {
-    background-image: url(../img/gym-01.JPG), url(../img/gym-02.JPG);
-}
+
 
 body {
     margin: 0;
