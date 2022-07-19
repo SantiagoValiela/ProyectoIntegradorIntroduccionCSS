@@ -32,7 +32,10 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {text-decoration: underline;}
+
 nav .activo {text-decoration: underline;}
+
 nav img {
     width: 2%;
     max-width: 100%;
@@ -89,6 +92,8 @@ main {
     box-shadow: 1px 3px 10px black;
     
 }
+
+.division img:hover {opacity: 0.5;}
 
 .nosotros {
     background-color: #b45008;
